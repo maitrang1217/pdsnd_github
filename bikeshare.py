@@ -90,6 +90,7 @@ def trip_duration_stats(df):
     start_time = time.time()
 
     # display total travel time
+    print('\nDisplay total travel time ...\n')
 
 
     # display mean travel time
@@ -107,6 +108,7 @@ def user_stats(df):
 
     # Display counts of user types
 
+    print('\nDisplay counts of user types ...\n')
 
     # Display counts of gender
 
