@@ -107,6 +107,7 @@ def user_stats(df):
 
     # Display counts of user types
 
+    print('\nDisplay counts of user types ...\n')
 
     # Display counts of gender
 
