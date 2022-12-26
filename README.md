@@ -1,17 +1,17 @@
->**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
+>**Note**: This a exercie of Udacity. I **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. 
 
 ### Date created
-Include the date you created this project and README file.
+26 Dec' 2022.
 
 ### Project Title
-Replace the Project Title
+Udacity Verion Control Exercise
 
 ### Description
-Describe what your project is about and what it does
+Practice Github commands as requested by [Verion Control Project](https://learn.udacity.com/paid-courses/cd0419/lessons/ls1882/concepts/30b2ce4a-3233-4fed-a593-5c2678f55144)
 
 ### Files used
-Include the files used
+[bikeshare.py](./bikeshare.py) and data files ()
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+It's free. Nothing to mention here :).
 
